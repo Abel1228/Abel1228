@@ -2,13 +2,13 @@
 
 ### Data Engineer | Databricks Certified Professional | Full-Stack Capable
 
-I am a **Data Engineer** with a focus on building scalable, secure, and efficient ETL/ELT pipelines. With over two years of experience and dual Databricks certifications, I specialize in transforming raw data into high-performance analytical models.
+I am a **Data Engineer** with a focus on building scalable, secure, and efficient ETL/ELT pipelines. With over two years of experience and dual multiple certifications, I specialize in transforming raw data into high-performance analytical models.
 
 ---
 
 ### 🛠️ My Technical Stack
 
-- **Languages:** Python (PySpark), SQL, JavaScript (React/Node.js)
+- **Languages:** SQL, Python (PySpark), JavaScript (React/Node.js)
 - **Data Engineering:** Databricks, Delta Lake, dbt, Airbyte, Apache Airflow, Azure Data Factory
 - **Data Warehousing:** Snowflake, BigQuery, Azure Synapse
 - **Visualization:** Power BI, Tableau
@@ -33,7 +33,7 @@ I am a **Data Engineer** with a focus on building scalable, secure, and efficien
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/abelsolomon12/
 - **Email:** abels5112@gmail.com
 - **Currently Located:** Addis Ababa, Ethiopia 
 
